@@ -171,7 +171,7 @@ export default function NiyamApp() {
             {/* Main heading */}
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold mb-6">
               <span className="bg-gradient-to-r from-amber-300 to-orange-400 bg-clip-text text-transparent">
-                Daily Niyam
+                Niyamavali
               </span>
             </h1>
 
